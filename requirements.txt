@@ -6,7 +6,7 @@ black==24.4.2
 bleak==0.22.2
 bleak-winrt==1.2.0
 bottle==0.12.25
-certifi==2024.6.2
+certifi==2024.7.4
 cffi==1.16.0
 click==8.1.7
 clr-loader==0.2.6
